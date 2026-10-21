@@ -5,7 +5,7 @@ Bu proje, ROS 2 Humble ortamında Python (`rclpy`) kullanılarak geliştirilmiş
 
 ---
 
-## 🚀 Projede Ne Yaptım? (Açıklama & Mantık)
+##  Projede Ne Yaptım? (Açıklama & Mantık)
 
 Projenin temel amacı, iki farklı ROS 2 düğümünün (node) bir konu (topic) üzerinden birbiriyle haberleşmesini sağlamaktır.
 
